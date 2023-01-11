@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfileImage from "../assets/KanchPIC.jpg";
+import ProfileImage from "../assets/KanchPiC.jpg";
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md';
 const Home = () => {
     return (
