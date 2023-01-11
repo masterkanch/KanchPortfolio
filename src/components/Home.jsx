@@ -1,6 +1,6 @@
 import React from 'react'
 import ProfileImage from "../assets/KanchPiC.jpg";
-import {MdOutlineKeyboardArrowRight} from 'react-icons/md';
+
 const Home = () => {
     return (
         <div name="home" className="h-screen w-full bg-gradient-to-b">
