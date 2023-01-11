@@ -30,17 +30,17 @@ const About = () => {
     ]
 
     return (
-        <div name="about" className="w-full  bg-gradient-to-b from-gray-800 to-black text-white h-full">
+        <div name="about" className="w-full bg-gradient-to-b from-gray-800 to-black text-white h-full">
             <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
                 <div className="pb-2 pt-10">
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-5">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis harum possimus iure, nihil iusto in inventore blanditiis omnis fugiat quasi nulla recusandae neque non vel incidunt laudantium voluptatum ipsam aliquam odit a enim. Ex a ab necessitatibus laborum, voluptates vero et eum repudiandae voluptatum dolores velit eaque atque perspiciatis fugiat.
+                    Hi, my name is Kanch Ruansiripiyakul and I'm a 3 year student at Khonkaen University studying DigitalMedia Engineering. I have always been interested in technology and design, which led me to pursue a career in front-end development. Throughout my time at university, I have gained a strong foundation in JavaScript and web design through my coursework and personal projects.
                 </p>
                 <br />
                 <p className="text-xl">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dolorum repellat sapiente! Ex iusto id, quod, perspiciatis error enim molestiae corrupti odio accusamus accusantium, corporis est reprehenderit tempore quo delectus officia totam neque laboriosam? Cupiditate quae repudiandae harum voluptatibus totam, ad sapiente beatae dolorem similique, dolores illum iste perferendis eveniet.
+                    In my spare time, I enjoy staying up-to-date with the latest technologies and trends in the industry and working on personal projects to improve my skills. I am excited to continue learning and to growing as a full stack developer.
                 </p>
                 <div className="pt-10">
                     <p className="text-4xl font-bold border-b-4 border-gray-500 inline">Experience</p>
