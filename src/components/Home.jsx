@@ -7,8 +7,8 @@ const Home = () => {
             <div className="max-w-screen-lg mx-auto flex flex-col-reverse items-center justify-center h-full px-4 md:flex-row">
                 <div className="flex flex-col justify-center h-auto sm:justify-center items-center text-center pt-5">
                     <h2 className="text-4xl sm:text-7xl font-bold w-full">
-                        Kanch Ruansiripiyakul
-                    </h2>
+                        Kanch Ruangsiripiyakul
+                    </h2>  
                     <p className="py-4 mx-w-md">
                         I have 8 years of experience building and desgining software.
                         Currently, I love to work on web application using technologies like
